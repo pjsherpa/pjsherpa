@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pjsherpa
 - 👀 I’m interested in travelling. 
-- 🌱 I’m currently learning coding at UC Berkeley Extension
+- 🌱 I’m currently learning coding at UC Berkeley
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
